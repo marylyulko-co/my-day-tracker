@@ -1,0 +1,26 @@
+{
+  "name": "Мой день — личный дневник состояния",
+  "short_name": "Мой день",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7efeb",
+  "theme_color": "#875664",
+  "lang": "ru",
+  "description": "Личный дневной трекер и дневник состояния.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
